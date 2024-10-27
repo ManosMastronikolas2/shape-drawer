@@ -1,4 +1,4 @@
-package shape-drawer;
+package shape;
 
 public class SolidShape {
     private double x,y,z, volume;

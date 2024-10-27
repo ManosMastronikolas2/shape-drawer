@@ -1,4 +1,4 @@
-package shape-drawer;
+package shape;
 
 import java.lang.Math;
 

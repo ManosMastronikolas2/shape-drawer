@@ -1,4 +1,4 @@
-package shape-drawer;
+package shape;
 
 import javax.sound.sampled.Line;
 import java.io.*;
